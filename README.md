@@ -5,8 +5,10 @@ we can open the folder of the Angular application through visual code also and d
 
 2. Copy the Isracard solution in a dev folder from Here and extract the content all zip files near the solution file
 3. Open the solution Isracard solution , and check that the project GitHub is running under .NET Core 2.0 , if you work with visual studio code it is irrelevant but you need to build the angular client with ng build or ng serve 
+
 you need to do ng build manually in order all dependencies node_modules has been dowmload . you will see the folder under : 
-GitHub\node_modules
+GitHub\node_modules.
+
 compile the project NVC in order to download all dependencies for MVC .  all packages downloaded will be packages folder in solution folder.
 
 4. For running application on chrome we need to install the plugin for cross origin support from url : 
