@@ -3,7 +3,7 @@
 1. The project has been developed with visual studio 2017 Community with the pluging for angular4 - the plugin can be download from visual studio extensions  - search it with the name : Angular CLI Templates .we need also that CLI has been installed on your machine 
 we can open the folder of the Angular application through visual code also and debug from there but it is a better way from visual studio because we can debug client and server on the same instance .
 
-2. Copy the Isracard solution in a dev folder from Here and extract the content all zip files near the solution files.
+2. Copy the Isracard solution in a dev folder from Here and extract the content all zip files near the solution file
 3. Open the solution Isracard solution , and check that the project GitHub is running under .NET Core 2.0 , if you work with visual studio code it is irrelevant but you need to build the angular client with ng build or ng serve 
 you need to do ng build manually in order all dependencies node_modules has been dowmload . you will see the folder under : 
 GitHub\node_modules
