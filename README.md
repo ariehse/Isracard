@@ -9,7 +9,7 @@ we can open the folder of the Angular application through visual code also and d
 you need to do ng build manually in order all dependencies node_modules has been dowmload . you will see the folder under : 
 GitHub\node_modules.
 
-compile the project NVC in order to download all dependencies for MVC .  all packages downloaded will be packages folder in solution folder.
+compile the project GitHubServer in order to download all dependencies for MVC .  all packages downloaded will be packages folder in solution folder.
 
 4. For running application on chrome we need to install the plugin for cross origin support from url : 
    https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi
